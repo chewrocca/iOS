@@ -2383,8 +2383,8 @@ Der Server antwortet nur, solange die App geöffnet ist, und stoppt, sobald du s
 "settings_sensors.sensors.header" = "Sensoren";
 "settings_sensors.sensors.no_results" = "Keine Sensoren passen zu deiner Suche";
 "settings_sensors.sensors.search_prompt" = "Sensoren durchsuchen";
-"settings_sensors.sensors.unavailable_on_device.header" = "Unavailable on this device";
-"settings_sensors.sensors.unavailable_on_device.state" = "Unavailable";
+"settings_sensors.sensors.unavailable_on_device.header" = "Auf diesem Gerät nicht verfügbar";
+"settings_sensors.sensors.unavailable_on_device.state" = "Nicht verfügbar";
 "settings_sensors.servers.footer" = "Jeder Server erhält die Sensoren, die du für ihn auswählst; ein Sensor kann also an den einen, aber nicht an den anderen melden.";
 "settings_sensors.servers.header" = "Server";
 "settings_sensors.servers.search_prompt" = "Server suchen";

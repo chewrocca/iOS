@@ -2383,8 +2383,8 @@ Home Assistant 為開源軟體、倡導隱私保護並於您的家中進行本�
 "settings_sensors.sensors.header" = "感測器";
 "settings_sensors.sensors.no_results" = "未找到符合搜尋條件的感測器。";
 "settings_sensors.sensors.search_prompt" = "搜尋感測器";
-"settings_sensors.sensors.unavailable_on_device.header" = "Unavailable on this device";
-"settings_sensors.sensors.unavailable_on_device.state" = "Unavailable";
+"settings_sensors.sensors.unavailable_on_device.header" = "此裝置不可用";
+"settings_sensors.sensors.unavailable_on_device.state" = "不可用";
 "settings_sensors.servers.footer" = "每台伺服器只會接收其選擇的感測器，因此某個感測器可以向其中一台回報，而不向另一台回報。";
 "settings_sensors.servers.header" = "伺服器";
 "settings_sensors.servers.search_prompt" = "搜尋伺服器";
